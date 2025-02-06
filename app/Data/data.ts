@@ -1,8 +1,8 @@
 export const BaseInfo = {
-  name: "Akash",
-  position: "Full Stack Web Developer",
+  name: "Akash Muhammad Abrrar",
+  position: "Frontend Web Developer",
   description:
-    "Lorem ipsum dolor sit amet consectetur adipisicing elit. Velit porro numquam ad, vero consequuntur aperiam cumque voluptatum pariatur veniam? Qui facilis est ipsam odio cum!",
+    "I have developed a solid foundation in key technologies, Including React.js for building dynamic UI, Express.js for backend development, and MongoDB for managing databases. My knowledge of this MERN stack allows me to build end-to-end web solutions.",
   profilePic: "/images/hero.png",
 };
 

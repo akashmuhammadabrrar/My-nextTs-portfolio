@@ -1,9 +1,10 @@
 import React from "react";
+import Hero from "./Hero/Hero";
 
 const Home = () => {
   return (
     <div className="overflow-hidden">
-      <h2>Home Page Components</h2>
+      <Hero></Hero>
     </div>
   );
 };
