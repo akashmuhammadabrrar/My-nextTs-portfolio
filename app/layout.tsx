@@ -28,7 +28,6 @@ export default function RootLayout({
       <body className={`${font.className}`}>
         <ResponsiveNav></ResponsiveNav>
         {children}
-        footer
       </body>
     </html>
   );
