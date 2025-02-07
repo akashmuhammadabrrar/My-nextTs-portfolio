@@ -157,23 +157,12 @@ export const skillsData = [
     image: "/images/mongo.svg",
     percent: "65%",
   },
-  {
-    id: 8,
-    title: "Python",
-    image: "/images/python.svg",
-    percent: "55%",
-  },
+
   {
     id: 9,
     title: "Firebase",
     image: "/images/firebase.svg",
     percent: "75%",
-  },
-  {
-    id: 10,
-    title: "Vue",
-    image: "/images/vue.svg",
-    percent: "35%",
   },
 ];
 
