@@ -11,7 +11,7 @@ const Contact = () => {
           <ContactForm></ContactForm>
         </div>
         {/* contact info */}
-        <div>
+        <div className="xl:mx-auto">
           <ContactInfo></ContactInfo>
         </div>
       </div>
