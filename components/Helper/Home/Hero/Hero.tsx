@@ -11,8 +11,8 @@ const Hero = () => {
           <div className="mx-auto  rounded-[3rem] border-[3.5px] border-blue-950 overflow-hidden ">
             <Image
               src="/images/hero.png"
-              width={500}
-              height={500}
+              width={400}
+              height={400}
               alt={BaseInfo.name}
             />
           </div>
