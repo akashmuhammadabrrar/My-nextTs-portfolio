@@ -1,7 +1,9 @@
 [[plugins]]
-package = "@netlify/plugin-nextjs"
+  package = "@netlify/plugin-nextjs"
 
 [build]
-[build]
-command = "npm install --force && npm run build"
-publish = ".next"
+  command = "npm install --force && npm run build"
+  publish = ".next"
+
+[build.environment]
+  NPM_FLAGS = "--force"
