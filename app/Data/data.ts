@@ -82,18 +82,14 @@ export const projectData = [
     image: "/images/p2.png",
     url: "https://restaurant-auth-d2823.web.app/",
   },
+
   {
     id: 3,
-    image: "/images/p3.png",
-    url: "https://game-ecommerce-yt.vercel.app/",
-  },
-  {
-    id: 4,
     image: "/images/p4.png",
     url: "https://edmanage-auth.web.app/",
   },
   {
-    id: 5,
+    id: 4,
     image: "/images/p5.png",
     url: "https://donation-tuilip-auth.web.app/login",
   },

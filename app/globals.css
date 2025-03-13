@@ -25,3 +25,11 @@
     border-radius: 4px;
   }
 }
+
+.input-style {
+  @apply bg-black text-white placeholder:text-gray-600 px-6 py-3 rounded-md border border-gray-700 outline-none w-full;
+}
+
+.btn-primary {
+  @apply px-8 py-3 bg-[#7947df] text-white hover:bg-[#5c2fb7] transition-all duration-300 rounded-full;
+}
